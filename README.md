@@ -1,6 +1,9 @@
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-108-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+# My solution for rustlings
+
+This is my solution for the rustlings Rust coding exercises.
+Started them without Rust knowledge at all. A great suite to get a fast introduction into the Rust lang.
+
+---
 
 # rustlings 🦀❤️
 
